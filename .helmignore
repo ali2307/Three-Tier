@@ -1,0 +1,14 @@
+# Common directories to ignore
+.git/
+.gitignore
+*.tgz
+*.log
+*.tar.gz
+*.zip
+*.jar
+node_modules/
+*.bak
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
